@@ -3,7 +3,17 @@
 Official compiled software downloads for Technobake Roast Runner ovens.
 The oven source code is maintained separately in a private repository.
 
-## Latest release
+## Latest service update (restricted download)
+
+**[v2026.10.13 — Restore oven reporting connectivity](https://github.com/andy-dextrous/technobake-downloads/releases/tag/v2026.10.13)**
+
+Repairs missing reporting setup through the normal USB software update. Its
+installer contains a legacy reporting credential, so downloads require authorised
+access to the [private service release](https://github.com/andy-dextrous/technobake-roast-runner-oven-legacy/releases/tag/v2026.10.13).
+There is no public installer for this service update. Contact your Technobake
+service representative if you need it. Installation remains the usual USB process.
+
+## Latest public installer
 
 **[v2026.10.06 — Separator cleaning confirmation correction](https://github.com/andy-dextrous/technobake-downloads/releases/tag/v2026.10.06)**
 
