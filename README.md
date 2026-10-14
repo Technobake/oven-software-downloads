@@ -26,3 +26,11 @@ rollback package. This update does not replace recipes or settings.
 
 This repository distributes the installer, checksums and release notes only;
 it does not contain the private source history or internal engineering logs.
+
+## Engineering recovery
+
+Authorised Technobake developers can find the
+[build-environment backup](https://github.com/Technobake/roast-runner-oven-software/releases/tag/build-env-2026.10.14)
+and [restore instructions](https://github.com/Technobake/roast-runner-oven-software/blob/main/docs/runbooks/build-lane-backup-and-restore.md)
+in the private oven source repository. These require source-repository access
+and are for rebuilding the software, not installing an update on an oven.
