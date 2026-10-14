@@ -1,17 +1,17 @@
-# Technobake oven downloads
+# Technobake oven software downloads
 
 Official compiled software downloads for Technobake Roast Runner ovens.
 The oven source code is maintained separately in a private repository.
 
 ## Latest release
 
-**[v2026.10.13 — Restore oven reporting connectivity](https://github.com/andy-dextrous/technobake-downloads/releases/tag/v2026.10.13)**
+**[v2026.10.13 — Restore oven reporting connectivity](https://github.com/Technobake/oven-software-downloads/releases/tag/v2026.10.13)**
 
 Repairs missing reporting setup through the normal USB software update.
 
-- **[Download the latest oven update ZIP](https://github.com/andy-dextrous/technobake-downloads/releases/latest/download/cro-update.zip)**
-- [Download this exact version](https://github.com/andy-dextrous/technobake-downloads/releases/download/v2026.10.13/cro-update.zip)
-- [SHA256 checksums](https://github.com/andy-dextrous/technobake-downloads/releases/download/v2026.10.13/SHA256SUMS)
+- **[Download the latest oven update ZIP](https://github.com/Technobake/oven-software-downloads/releases/latest/download/cro-update.zip)**
+- [Download this exact version](https://github.com/Technobake/oven-software-downloads/releases/download/v2026.10.13/cro-update.zip)
+- [SHA256 checksums](https://github.com/Technobake/oven-software-downloads/releases/download/v2026.10.13/SHA256SUMS)
 
 These downloads are public and require no GitHub login. Detailed changes and
 verification limits are in the release notes. The application build date remains
